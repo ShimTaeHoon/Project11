@@ -23,6 +23,7 @@ class Student {
 		
 	}
 
+	
 	@Override
 	public boolean equals(Object obj) {
 
