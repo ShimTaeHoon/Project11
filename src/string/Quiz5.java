@@ -6,6 +6,7 @@ public class Quiz5 {
 
 	public static void main(String[] args) {
 
+		// 안녕하세요를 입력받고 > 거꾸로 출력하기
 		Scanner scanner = new Scanner(System.in);
 		String str = scanner.nextLine();
 		
@@ -24,5 +25,4 @@ public class Quiz5 {
 			i--;
 		}
 	}
-
 }
