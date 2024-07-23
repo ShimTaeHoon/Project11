@@ -1,8 +1,8 @@
-package string;
+package wrapper;
 
 import java.util.Scanner;
 
-public class Quiz7 {
+public class Quiz4 {
 
 	public static void main(String[] args) {
 
