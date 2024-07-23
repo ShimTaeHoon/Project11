@@ -24,5 +24,15 @@ public class Quiz5 {
 			System.out.print(str.charAt(i));
 			i--;
 		}
+		
+		// 3.
+		for(int j = 4; j >= 0; j--) { 
+			System.out.println(str.charAt(j));
+		}
+		
+		// 4. StringBuilder 클래스 사용
+		StringBuilder builder = new StringBuilder(str);
+		builder.reverse(); // 문자열을 거꾸로 변경하기
+		System.out.println(builder.toString());
 	}
 }
