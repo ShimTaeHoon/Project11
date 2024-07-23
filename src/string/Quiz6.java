@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Quiz6 {
 
 	public static void main(String[] args) {
-
+//1
 //		// 무한루프
 //		while(true) {
 //			System.out.println("계속 실행됩니다..");
